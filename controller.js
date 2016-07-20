@@ -5,7 +5,7 @@ angular.module('AngularExample').controller('exampleController', function ($scop
     $scope.message = 'Hello world!';
     $scope.list = [
         {
-            firstName: 'John2',
+            firstName: 'John',
             lastName: 'Doe'
         },
         {
